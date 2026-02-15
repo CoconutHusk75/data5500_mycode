@@ -1,3 +1,5 @@
+#Quinton Latimer, Data 5500, Spring 2026
+
 import requests
 import json
 import csv
